@@ -1,0 +1,9 @@
+{
+	"name": "nickdiscipioADF",
+	"location": "usgovvirginia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b747c72b-81c5-4171-a6ff-f2bba2a0a84b",
+		"tenantId": "7f59db05-b34e-432e-a39f-7f2051cd8e48"
+	}
+}
